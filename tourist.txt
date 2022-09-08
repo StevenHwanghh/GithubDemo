@@ -4,5 +4,3 @@ canmore
 Calgory
 Hinton
 Edermoton
-Toronto
-Niagara falls
