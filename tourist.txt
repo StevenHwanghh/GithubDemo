@@ -3,3 +3,4 @@ Jasper
 canmore
 Calgory
 Hinton
+Edermoton
