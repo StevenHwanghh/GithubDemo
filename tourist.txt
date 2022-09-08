@@ -4,3 +4,4 @@ canmore
 Calgory
 Toronto
 Niagara falls
+Beijing
