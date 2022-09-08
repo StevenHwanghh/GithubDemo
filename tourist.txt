@@ -2,3 +2,4 @@ Banff
 Jasper
 canmore
 Calgory
+Hinton
