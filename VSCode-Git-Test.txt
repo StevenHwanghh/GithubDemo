@@ -1,3 +1,5 @@
 commit == staging == working
 
 change 1
+
+change 2
