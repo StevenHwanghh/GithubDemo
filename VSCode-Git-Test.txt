@@ -1,3 +1,1 @@
-This is a test
-
-Add another line. 
+commit == staging == working
